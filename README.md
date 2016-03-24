@@ -1,1 +1,1 @@
-# Android Configuration File with Yaml
+# Support Multilanguage Android with Yaml
